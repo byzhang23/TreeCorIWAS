@@ -1,0 +1,11 @@
+Package: TreeCorIWAS
+Type: Package
+Title: Application of TreeCorTreat in Immunome-wide association studies
+Version: 0.1.0
+Author: Boyang Zhang <bzhang34@jhu.edu>
+Maintainer: Boyang Zhang <bzhang34@jhu.edu>
+Description: Perform TreeCorTreat analysis on single-cell immune profiling data 
+License: MIT-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
